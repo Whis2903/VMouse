@@ -66,7 +66,7 @@ python virtual_mouse.py
  ## Current Contributors 🔻
 <div align="center">
   <a href="https://github.com/Whis2903/VMouse/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ADITYAVOFFICIAL/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER" />
+  <img src="https://contrib.rocks/image?repo=Whis2903/Vmouse" />
 </a>
 </div>
 
