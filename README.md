@@ -60,7 +60,7 @@ python virtual_mouse.py
 
  ## 💻 Current Tech Stack
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="40" width="50" src="https://www.google.com/imgres?q=opencv%20logo&imgurl=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--tcMWlo3q--%2Fc_limit%252Cf_auto%252Cfl_progressive%252Cq_auto%252Cw_800%2Fhttps%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1618654038257%2FtM_8qo9Gt.jpeg&imgrefurl=https%3A%2F%2Fdev.to%2Fsiddharth2016%2Flet-s-draw-opencv-logo-using-opencv-2afh&docid=mLgyApCO8arKnM&tbnid=Gln6rpQnv63KfM&vet=12ahUKEwi_07bTx5KFAxVU4jgGHSkTCz4QM3oECBkQAA..i&w=449&h=436&hcb=2&ved=2ahUKEwi_07bTx5KFAxVU4jgGHSkTCz4QM3oECBkQAA">
+  <img align="center" alt="Js" height="40" width="50" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2l1qtiqdslkdn7zbu7g.png">
   <img align="center" alt="React" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
   <img align="center" alt="NODEJS" height="50" width="50" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
   
