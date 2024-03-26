@@ -1,5 +1,9 @@
 <br/>
 <p align="center">
+  <a href="https://github.com/Whis2903/VMouse">
+    <img src="" alt="Logo" width="80" height="80">
+  </a>
+
   <h3 align="center">
 Virtual Mouse using Hand Gestures</h3>
 
@@ -56,7 +60,7 @@ pip install opencv-python mediapipe pyautogui
 3.Run the Script
 
 ```sh
-python main.py
+python virtual_mouse.py
 ```
 
 ## Contributing
@@ -78,5 +82,4 @@ Contributions are what make the open source community such an amazing place to b
 ## Authors
 
 * **Vishal Mohan Nair ** - *CSE Student* - [Vishal Mohan Nair ](https://github.com/Whis2903) - *Developer*
-
 
