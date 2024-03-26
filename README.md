@@ -56,7 +56,7 @@ pip install opencv-python mediapipe pyautogui
 3.Run the Script
 
 ```sh
-python virtual_mouse.py
+python main.py
 ```
 
 ## Contributing
