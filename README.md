@@ -63,6 +63,11 @@ pip install opencv-python mediapipe pyautogui
 python virtual_mouse.py
 ```
 
-
+ ## Current Contributors 🔻
+<div align="center">
+  <a href="https://github.com/Whis2903/VMouse/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ADITYAVOFFICIAL/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER" />
+</a>
+</div>
 
 
