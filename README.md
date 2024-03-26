@@ -60,9 +60,9 @@ python virtual_mouse.py
 
  ## 💻 Current Tech Stack
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png">
-  <img align="center" alt="React" height="60" width="100" src="https://editor.analyticsvidhya.com/uploads/53474logo_horizontal_color.png">
-  <img align="center" alt="NODEJS" height="60" width="70" src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg">
+  <img align="center" alt="Js" height="80" width="70" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png">
+  <img align="center" alt="React" height="80" width="100" src="https://editor.analyticsvidhya.com/uploads/53474logo_horizontal_color.png">
+  <img align="center" alt="NODEJS" height="80" width="70" src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg">
   
 </div>
 
