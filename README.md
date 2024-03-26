@@ -30,11 +30,6 @@ Virtual Mouse using Hand Gestures</h3>
 
 This project aims to revolutionize user interaction with computers by implementing a virtual mouse controlled entirely through hand gestures. Leveraging the power of computer vision techniques provided by libraries like MediaPipe and OpenCV, it tracks the user's hand movements in real-time, overlaying landmarks to accurately interpret gestures. By simply moving their index finger, users can effortlessly control the mouse cursor on their screen. Additionally, a click action is triggered by bringing the thumb close to the index finger, mimicking a mouse click gesture. The system is designed to be adaptable to various screen resolutions, ensuring a seamless user experience across different devices. With this innovative solution, users can navigate their digital world with intuitive hand gestures, enhancing both accessibility and convenience in computer interaction.
 
-## Built With
-
-- MediaPipe: Utilized for real-time hand detection and landmark tracking, providing robust computer vision capabilities.
-- OpenCV: Integrated for image processing tasks such as frame capture, color space conversion, and drawing overlays on the video feed.
-- PyAutoGUI: Employed for simulating mouse actions and controlling cursor movements on the screen, enabling interaction based on hand gestures.
 
 ## Getting Started
 
@@ -62,6 +57,15 @@ pip install opencv-python mediapipe pyautogui
 ```sh
 python virtual_mouse.py
 ```
+
+ ## 💻 Current Tech Stack
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="40" width="50" src="https://www.google.com/imgres?q=opencv%20logo&imgurl=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--tcMWlo3q--%2Fc_limit%252Cf_auto%252Cfl_progressive%252Cq_auto%252Cw_800%2Fhttps%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1618654038257%2FtM_8qo9Gt.jpeg&imgrefurl=https%3A%2F%2Fdev.to%2Fsiddharth2016%2Flet-s-draw-opencv-logo-using-opencv-2afh&docid=mLgyApCO8arKnM&tbnid=Gln6rpQnv63KfM&vet=12ahUKEwi_07bTx5KFAxVU4jgGHSkTCz4QM3oECBkQAA..i&w=449&h=436&hcb=2&ved=2ahUKEwi_07bTx5KFAxVU4jgGHSkTCz4QM3oECBkQAA">
+  <img align="center" alt="React" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+  <img align="center" alt="NODEJS" height="50" width="50" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
+  
+</div>
+
 
  ## Current Contributors 🔻
 <div align="center">
