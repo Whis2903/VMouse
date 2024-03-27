@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Whis2903/VMouse">
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="https://contrib.rocks/image?repo=Whis2903/Vmouse" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">
